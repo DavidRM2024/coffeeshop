@@ -1,0 +1,12 @@
+coffeeshopDB.PNG
+/backend/dist
+/backend/node_modules
+/backend/.env
+/backend/package-lock.json
+
+/frontend/.angular
+/frontend/.vscode
+/frontend/node_modules
+/frontend/src/.editorconfig
+/frontend/README.md
+/frontend/.gitignore
